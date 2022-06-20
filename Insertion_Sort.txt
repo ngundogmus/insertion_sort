@@ -17,7 +17,8 @@ Answers :
 2-
     n + (n-1) + (n-2) + (n-3) + (n-4)  
     Big O =~ n^2
-3-  
+3- 
+    Dizi sıralandıktan sonra oluşan Time Complexity
     Best Case       -> Time Complexity =  O(1)   = 1   ->  Aradığımız eleman en başta ise 1 iterasyon gerçekleşir.
     Average Case    -> Time Complexity =  O(n/2) = 3   ->  Aradığımız eleman ortada ise 3 iterasyon gerçekleşir.
     Worst Case      -> Time Complexity =  O(n)   = 6   ->  Aradığımız eleman sonda veya yok ise 6 iterasyon gerçekleşir.
