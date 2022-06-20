@@ -24,7 +24,7 @@ Answers :
 
 4-
     Dizi sıralandıktan sonra 18 sayısı 4. eleman olduğu için  
-    Time Complexity =  O(n) kapsamına girer.
+    Time Complexity =  O(n) yani Worst Case kapsamına girer.
 
 
 [7,3,5,8,2,9,4,15,6]
